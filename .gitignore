@@ -1,0 +1,8 @@
+.ckpt
+.log
+.xlsx
+.*/
+logs/
+venv/
+models_ckpt/
+/tensorboard/
