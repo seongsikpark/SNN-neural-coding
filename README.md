@@ -8,10 +8,7 @@ DNN-to-SNN conversion based
 
 
 # Neural Coding
-
-
-
-
+<img width="1122" alt="neural coding" src="https://user-images.githubusercontent.com/13957658/153992249-46056e73-00f8-4929-a711-8e360fece9a0.png">
 
 
 # How to run?
